@@ -63,7 +63,7 @@ I am a Software Engineer, Tech Lead and currently I love to work with Flutter an
       </a>
       <br/>
       <em>
-         Mar 2, 2022 - (3 min read)
+         Mar 2, 2022 - (2 min read)
       </em>
     </td>
   </tr> 
@@ -97,7 +97,7 @@ I am a Software Engineer, Tech Lead and currently I love to work with Flutter an
       </a>
       <br/>
       <em>
-         Jan 18, 2022 - (3 min read)
+         Jan 18, 2022 - (1 min read)
       </em>
     </td>
   </tr>
