@@ -30,6 +30,24 @@ I am a Software Engineer, Tech Lead and currently I love to work with Flutter an
 ### Blog Posts
 
 <table>
+  
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/posts/ryan-stockdale_how-we-enabled-code-reuse-for-faster-development-activity-7110508135177469952-JBo2">
+        <img src="https://images.squarespace-cdn.com/content/v1/5f2e3c6881d299787b63a01a/1678169851163-E08ICP0A3ASCBGAAMR13/unsplash-image-sfL_QOnmy00.jpg?format=2500)" loading="lazy" alt="In today's software development landscape, code reuse and maintainability are essential for faster delivery and lower costs. A mono-repo is a software development approach that allows multiple projects to share a single codebase, enabling code reuse and improving code maintenance." width="160">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/posts/ryan-stockdale_how-we-enabled-code-reuse-for-faster-development-activity-7110508135177469952-JBo2">
+        How we enabled code reuse for faster development cycles
+      </a>
+      <br/>
+      <em>
+         Sep 21, 2023 - (2 min read)
+      </em>
+    </td>
+  </tr>
+  
    <tr>
     <td>
       <a href="https://www.linkedin.com/posts/ryan-stockdale_using-github-actions-to-trigger-actions-across-activity-6995906840496668672-qqEA">
@@ -44,23 +62,6 @@ This is where the repository_dispatch event comes in." width="160">
       <br/>
       <em>
          Nov 9, 2022 - (2 min read)
-      </em>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/posts/ryan-stockdale_how-we-enabled-code-reuse-for-faster-development-activity-7110508135177469952-JBo2">
-        <img src="https://images.squarespace-cdn.com/content/v1/5f2e3c6881d299787b63a01a/1666574695141-ZQSIVKB7AVXN1UNF77AJ/actions+run+header.png" loading="lazy" alt="In today's software development landscape, code reuse and maintainability are essential for faster delivery and lower costs. A mono-repo is a software development approach that allows multiple projects to share a single codebase, enabling code reuse and improving code maintenance." width="160">
-      </a>
-    </td>
-    <td>
-      <a href="https://www.linkedin.com/posts/ryan-stockdale_using-github-actions-to-trigger-actions-across-activity-6995906840496668672-qqEA">
-        How we enabled code reuse for faster development cycles
-      </a>
-      <br/>
-      <em>
-         Sep 21, 2023 - (2 min read)
       </em>
     </td>
   </tr>
